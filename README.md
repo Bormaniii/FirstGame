@@ -1,4 +1,4 @@
-# JavaApplication002
-First upload of code
+# FirstGame
+added basic idea of game
 
-This app is to just learn. Nothing special here.
+in future with gui
